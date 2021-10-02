@@ -1,7 +1,6 @@
 package com.derekdileo;
 
-/**
- * Class to calculate fibonacci numbers with main method to execute and compare iterative and recursive execution times
+/** Class to calculate fibonacci numbers with main method to execute and compare iterative and recursive execution times
  * @author Derek DiLeo
  */
 public class FibonacciNumbers {
